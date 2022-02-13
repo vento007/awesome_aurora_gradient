@@ -22,12 +22,12 @@ For help getting started with Flutter, view the online [documentation][flutter_d
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/vento007/awesome_aurora_gradient/blob/master/doc/images/1.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/2.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/3.png" width="340" > 
- <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/4.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/5.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/6.png" width="340" > 
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/1.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/2.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/3.png" width="340" > 
+ <img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/4.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/5.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/6.png" width="340" > 
 
 ### **How to use it**
 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/example.png" width="200" >
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/example.png" width="200" >
 
 Let's say we want to generate something like this image above. here is a simple way of doing it
 
@@ -50,7 +50,7 @@ This will generate a random background. to get the actual values that are genera
 
 and then you can keep refreshing the page until you find a pattern you like. because of the debug flag, you can find the configuration in the debug console on vscode, it looks like this
 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/debuglog.png"  >
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/debuglog.png"  >
 
 
 Now you have a final asAwesomeAurora object that looks something like this
@@ -177,7 +177,7 @@ FlutterLogo(
 
 With this and .asAwesomeAurora you can create something quite complex like this
 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/flutterlogo.png" width="350" >
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/flutterlogo.png" width="350" >
 
 This is a FlutterLogo() (could be a PNG with transparent background) and shader mask and .asShadow. the code looks like this
 
@@ -231,7 +231,7 @@ In the commented section of this code snippet, you can find an image example as 
 
 Too many to list, only your fantasy (and code skills) will limit you.. here is an AppBar
 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/appbar.png" width="350" >
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/appbar.png" width="350" >
 
 code example for the appbar
 
@@ -326,10 +326,10 @@ I was inspired to do this package after watching a Figma tutorial on youtube and
 
 ### More examples
 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/f.png" width="440" > 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/a.png" width="440" > 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/b.png" width="440" > 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/c.png" width="440" > 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/d.png" width="440" > 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/e.png" width="440" > 
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/f.png" width="440" > 
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/a.png" width="440" > 
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/b.png" width="440" > 
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/c.png" width="440" > 
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/d.png" width="440" > 
+<img src="https://github.com/vento007/awesome_aurora_gradient/raw/master/doc/images/e.png" width="440" > 
 
