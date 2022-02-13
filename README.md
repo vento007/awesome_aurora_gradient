@@ -22,7 +22,7 @@ For help getting started with Flutter, view the online [documentation][flutter_d
 
 ## Gallery
 
-<img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/1.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/2.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/3.png" width="340" > 
+<img src="https://raw.githubusercontent.com/vento007/awesome_aurora_gradient/blob/master/doc/images/1.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/2.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/3.png" width="340" > 
  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/4.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/5.png" width="340" >  <img src="https://github.com/vento007/awesome_aurora_gradient/blob/master/doc/images/6.png" width="340" > 
 
 ### **How to use it**
